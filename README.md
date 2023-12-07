@@ -1,4 +1,4 @@
-# E-Commerce React website
+# E-Commerce React Website
 ## The website includes:
 * trending products
 * offer banner
